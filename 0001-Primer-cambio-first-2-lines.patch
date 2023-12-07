@@ -1,0 +1,22 @@
+From cf25400edc82f0c7a9d060c0ff277d526c65b87b Mon Sep 17 00:00:00 2001
+From: jisusoc19 <papati0582@gmail.com>
+Date: Wed, 6 Dec 2023 19:46:21 -0500
+Subject: [PATCH] Primer cambio first 2 lines
+
+---
+ firstFile.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 8274ba3..26d8c36 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -8,3 +8,5 @@ f
+ f
+ f
+ f
++nueva
++nueva
+-- 
+2.43.0.windows.1
+
